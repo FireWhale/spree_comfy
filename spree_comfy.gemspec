@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'spree_core', '~> 3.0'
-  s.add_dependency 'comfortable_mexican_sofa'
+  s.add_dependency 'comfortable_mexican_sofa', '~> 2.0.0'
 
   s.add_development_dependency 'capybara', '~> 2.1'
   s.add_development_dependency 'coffee-rails'
